@@ -4,7 +4,7 @@ function submitAnswer() {
     document.body.style.backgroundImage = 'url("thanos.gif")';
 	 alert("Chat mo ako!");
 	  setTimeout(function() {
-         window.location.href = "https://www.facebook.com/stantannnn";
+         window.location.href = "https://www.instagram.com/_stantan/";
       }, 6000);
    } else {
     var confirmNo = confirm("Are you sure?");
