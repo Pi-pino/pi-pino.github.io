@@ -5,7 +5,7 @@ function confirmYes() {
     audio.play();
         document.body.style.backgroundImage = 'url("thanos.gif")';
 	  setTimeout(function() {
-         window.location.href = "https://www.instagram.com/_stantan/";
+         window.location.href = "https://www.instagram.com/_camilano/";
       }, 6000);
     }
 }
